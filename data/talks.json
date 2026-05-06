@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "Scaling Distributed Systems with Rust",
+    "speakers": ["Alice Johnson"],
+    "categories": ["Backend", "Rust", "Distributed Systems"],
+    "duration": "1 hour",
+    "description": "Learn how Rust's memory safety and concurrency features make it an ideal choice for high-performance distributed systems.",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "talk"
+  },
+  {
+    "id": 2,
+    "title": "Modern Frontend: Beyond React and Vue",
+    "speakers": ["Bob Smith", "Charlie Davis"],
+    "categories": ["Frontend", "Svelte", "Performance"],
+    "duration": "1 hour",
+    "description": "An exploration of emerging frontend frameworks and techniques that prioritize zero-bundle sizes and runtime efficiency.",
+    "startTime": "11:10 AM",
+    "endTime": "12:10 PM",
+    "type": "talk"
+  },
+  {
+    "id": 3,
+    "title": "The Future of AI in Software Engineering",
+    "speakers": ["Dr. Emily Chen"],
+    "categories": ["AI", "LLM", "DevOps"],
+    "duration": "1 hour",
+    "description": "How Large Language Models are transforming the way we write, test, and deploy code in 2026.",
+    "startTime": "12:20 PM",
+    "endTime": "01:20 PM",
+    "type": "talk"
+  },
+  {
+    "id": 4,
+    "title": "Lunch Break",
+    "speakers": [],
+    "categories": ["Break"],
+    "duration": "1 hour",
+    "description": "Networking lunch in the main hall.",
+    "startTime": "01:20 PM",
+    "endTime": "02:20 PM",
+    "type": "break"
+  },
+  {
+    "id": 5,
+    "title": "Securing the Modern Cloud Stack",
+    "speakers": ["Frank Wright"],
+    "categories": ["Cloud", "Security", "Infrastructure"],
+    "duration": "1 hour",
+    "description": "A deep dive into zero-trust architectures and automated threat detection in multi-cloud environments.",
+    "startTime": "02:20 PM",
+    "endTime": "03:20 PM",
+    "type": "talk"
+  },
+  {
+    "id": 6,
+    "title": "Database Internals: Deep Dive into LSM Trees",
+    "speakers": ["Grace Lee", "Hank Miller"],
+    "categories": ["Database", "Performance"],
+    "duration": "1 hour",
+    "description": "Understand the low-level data structures that power modern high-throughput NoSQL databases.",
+    "startTime": "03:30 PM",
+    "endTime": "04:30 PM",
+    "type": "talk"
+  },
+  {
+    "id": 7,
+    "title": "Mastering Kubernetes in Production",
+    "speakers": ["Ivy Lopez"],
+    "categories": ["Cloud", "DevOps", "Kubernetes"],
+    "duration": "1 hour",
+    "description": "Practical lessons learned from running large-scale containerized applications across thousands of nodes.",
+    "startTime": "04:40 PM",
+    "endTime": "05:40 PM",
+    "type": "talk"
+  }
+]
